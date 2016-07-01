@@ -5,3 +5,4 @@ node_modules
 public
 
 dist/**/*.js
+dsist/**/*.js.map
